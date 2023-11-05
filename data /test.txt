@@ -1,2 +1,0 @@
-The data is so big, I can't push them on github but you can download file from this link: https://www.kaggle.com/competitions/digit-recognizer/data
-I am sorry for this inconvenience. <3
