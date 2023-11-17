@@ -5,6 +5,9 @@ Solving digits recognize problem
   
   In this problem we just recognize the handwritten digit, not detect. I use Colab to train the models.
 
+![demo](https://github.com/Tkag0001/Practice-ML-with-Digit-recognize-problem/assets/107709392/d7917711-4b0f-4710-98bc-009fba15d2c9)
+
+
 ## Resource:
 
 I use two datasets:
