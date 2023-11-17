@@ -8,7 +8,7 @@ Solving digits recognize problem
 ## Resource:
 
 I use two datasets:
-- Kaggle: [mnist-dataset](https://www.kaggle.com/competitions/digit-recognizer) -- You have to download, put into a drive folder and change some urel in train_model file to run.
+- Kaggle: [mnist-dataset](https://www.kaggle.com/competitions/digit-recognizer) -- You have to download, put into a drive folder and change some url in train_model file to run.
 - Keras: [mnist-dataset](https://keras.io/api/datasets/mnist/) -- You just run cell to load the dataset.
 
 ## Explanation of files:
