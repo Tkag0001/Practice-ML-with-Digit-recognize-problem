@@ -24,5 +24,5 @@ I use two datasets:
       > detect.py --source ../data/test_image1.png
 2) In data folder:
    - saved_model1.h5 and saved_model1.pkl: weight of model1.
-   - saved_model2.h2 and saved_model2.pkl: weight of model2.
+   - saved_model2.h5 and saved_model2.pkl: weight of model2.
    - test_image.png: image to test in applicate_model.py
