@@ -18,8 +18,10 @@ I use two datasets:
 1) In code folder:
    - Train_model1.ipynb: train_file with dataset from Kaggle
    - Train_model2.ipynb: train_file with dataset from Keras.
-   - applicate_model.py: test_file identifies a digit of an image.
-     
+   - detect.py: to identifies a digit of an image.
+     ~~~
+      > cd code
+      > detect.py --source ../data/test_image1.png
 2) In data folder:
    - saved_model1.h5 and saved_model1.pkl: weight of model1.
    - saved_model2.h2 and saved_model2.pkl: weight of model2.
